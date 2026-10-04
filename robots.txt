@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# After deploying, add your live URL:
+# Sitemap: https://YOUR-DOMAIN/sitemap.xml
